@@ -12,7 +12,7 @@
 
  🔭 I’m currently working on **documentation project using Material for MkDocs, ML project using Python, and full-stack webapp project**
 
- 🌱 I’m currently learning **AWS AI & ML Scholarship program**
+ 🌱 I’m currently learning **BSc in Applied Computer Science, specializing in network security!**
 
 <!-- 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)** -->
 
